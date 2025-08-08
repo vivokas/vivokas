@@ -21,7 +21,7 @@ Me chamo Viviane Gabriel, tenho 34 anos e sou natural de Belo Horizonte - Minas 
 </a>
 
 
-### 🤖 Tecnologias
+### 🤖 Tecnologias e Ferrramentas
 
 <img 
     align="left" 
