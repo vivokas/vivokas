@@ -2,7 +2,7 @@
 
 **`Analista de Testes de Software`**
 
-Me chamo Viviane Gabriel, tenho 34 anos e sou natural de Belo Horizonte - Minas Gerais. Sou formada em Gestão de Tecnologia da Informação, possuo pós graduação em Ciência de Dados e Big Data. Atualmente, estou cursando uma pós em Automação de Testes pelo profissional Julio de Lima em conjunto com a Universidade Vincit.
+Me chamo Viviane Gabriel, tenho 34 anos e sou natural de Belo Horizonte - Minas Gerais. Sou formada em Gestão de Tecnologia da Informação, possuo pós graduação em Ciência de Dados e Big Data. Atualmente, estou cursando uma pós em Automação de Testes pelo profissional Julio de Lima em conjunto com a Universidade Facint.
 
 <div align="center">
   <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*pCbxSXgWUWd2KnnV.gif"  />
